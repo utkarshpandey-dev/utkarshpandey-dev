@@ -20,5 +20,5 @@ I’m passionate about leveraging technology to solve real-world problems. Wheth
 
 📬 Let’s Connect
 
-GitHub: Utkarsh Pandey
-Email: utharshpandey.cse@gmail.com
+- GitHub: [Utkarsh Pandey](https://github.com/utkarshpandey-dev)  
+- Email: utharshpandey.cse@gmail.com
